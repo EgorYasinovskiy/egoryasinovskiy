@@ -7,8 +7,8 @@ ___
 ___
 ### Technologies and Tools
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C-Sharp&logoColor=b3b)
-![.Net Framework](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=f8f)
-![.Net Core](https://img.shields.io/badge/-Core-090909?style=for-the-badge&logo=.net&logoColor=f8f)
+![.Net Framework](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=dotnet&logoColor=f8f)
+![.Net Core](https://img.shields.io/badge/-Core-090909?style=for-the-badge&logo=dotnet&logoColor=f8f)
 ![Visual Studio 2019](https://img.shields.io/badge/-VS2019-090909?style=for-the-badge&logo=Visual-studio&logoColor=b3b)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=red)
 ![Ms SQL Server](https://img.shields.io/badge/-Ms_SQL_SERVER-090909?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)
