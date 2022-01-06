@@ -3,7 +3,7 @@
 
 ### About me 
 ___
- I`m a second-year student at the State University of Aerospace Instrumentation (SUAI). Programming and use C# in my work.
+ I`m a third-year student at the State University of Aerospace Instrumentation (SUAI). Programming and use C# in my work.
 ___
 ### Technologies and Tools
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C-Sharp&logoColor=b3b)
