@@ -3,7 +3,10 @@
 
 ### About me 
 ___
- I`m a third-year student at the State University of Aerospace Instrumentation (SUAI). Programming and use C# in my work.
+* Junior C# Developer in [![Digital Design](https://www.digdes.com/)]
+ * Third-year student at the State University of Aerospace Instrumentation (SUAI). 
+ * Programming and use C# in my work.
+ * Procrastinator
 ___
 ### Technologies and Tools
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C-Sharp&logoColor=b3b)
