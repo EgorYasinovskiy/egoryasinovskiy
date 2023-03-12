@@ -3,8 +3,8 @@
 
 ### About me 
 ___
-* Junior C# Developer in [![Digital Design](https://www.digdes.com/)]
- * Third-year student at the State University of Aerospace Instrumentation (SUAI). 
+ * C# Developer in [Digital Design](https://www.digdes.com/)
+ * Fourth-year student at the State University of Aerospace Instrumentation (SUAI). 
  * Programming and use C# in my work.
  * Procrastinator
 ___
@@ -12,10 +12,10 @@ ___
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C-Sharp&logoColor=b3b)
 ![.Net Framework](https://img.shields.io/badge/-.NET_Framework-090909?style=for-the-badge&logo=dotnet&logoColor=f8f)
 ![.Net Core](https://img.shields.io/badge/-.NET_Core-090909?style=for-the-badge&logo=dotnet&logoColor=f8f)
-![Visual Studio 2019](https://img.shields.io/badge/-VS2019-090909?style=for-the-badge&logo=Visual-studio&logoColor=b3b)
+![Visual Studio 2022](https://img.shields.io/badge/-VS2019-090909?style=for-the-badge&logo=Visual-studio&logoColor=b3b)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=red)
 ![Ms SQL Server](https://img.shields.io/badge/-Ms_SQL_SERVER-090909?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)
-![Ms SQL Server](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=microsoft&logoColor=aqua)
+![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=microsoft&logoColor=aqua)
 ___
 [![Egor's Github stats](https://github-readme-stats.vercel.app/api?username=EgorYasinovskiy&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ___
