@@ -21,7 +21,7 @@ ___
 ___
 ### Contacts
 [![Vkontakte](https://img.shields.io/badge/-VK-4680C2?style=for-the-badge&logo=vk&logoColor=fff)](https://vk.com/yasinovskiy_egor)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/nide_1241)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/greennide)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:egor.yasinovskiy2020@gmail.com)
 
 	
